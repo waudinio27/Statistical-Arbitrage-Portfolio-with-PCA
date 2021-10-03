@@ -1,4 +1,4 @@
-# Statistical-Arbitrage-EUROZONE-with-PCA
+# Statistical-Arbitrage-Portfolio-with-PCA
 
 This is my implementation of the Statistical Arbitrage Portfolio from Dr. Thomas Starke from AAA Quants.
 
