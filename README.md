@@ -10,6 +10,6 @@ The back test is extended in a manner that allows to print out the actual positi
 
 Instead of relying on a Kalman Filter for the calculation of the dynamic hedge ratio, this model uses the PCA - Principal Component Analysis for this purpose.
 
-It is possible to determine the maximal positions for each site with max_pos. Like this, the overall portfolio value gets smoothed out in comparison to the Pairs Trading.
+It is possible to determine the maximal positions for each site with max_pos. Like this, the overall portfolio value gets smoothed out in comparison to Pairs Trading.
 
 In the latest version a Threshold has been added as well as a further improvement.  
